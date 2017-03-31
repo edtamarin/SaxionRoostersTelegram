@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="SRC:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/SRC_jar</output-path>
+    <root id="archive" name="SRC.jar">
+      <element id="module-output" name="SRC" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../telegrambots-2.4.4.5-jar-with-dependencies.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
